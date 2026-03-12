@@ -13,7 +13,7 @@ Tenho maior interesse e foco em **desenvolvimento backend**, mas também possuo 
 Busco oportunidades para aplicar meus conhecimentos na prática, colaborar em projetos e continuar evoluindo na área de tecnologia.
 
 * 🎓 **Formação:** Sistemas para Internet  
-* 🎯 **Foco:** Desenvolvimento Web e Backend  
+* 🎯 **Foco:** Desenvolvimento Backend  
 * 💡 **Objetivo:** Evoluir como desenvolvedora e construir soluções eficientes  
 
 ---
