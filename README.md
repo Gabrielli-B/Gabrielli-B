@@ -8,17 +8,6 @@
 Sou estudante de **Sistemas para Internet** (IFSul), apaixonada por tecnologia e desenvolvimento de software.
 Tenho maior interesse e foco em **desenvolvimento backend**, mas também possuo conhecimentos em **frontend**, o que me permite entender e contribuir com diferentes partes de uma aplicação web.
 
-Busco minha primeira oportunidade como **estagiária de TI**, para aplicar o que aprendo na prática, colaborar em projetos reais e continuar evoluindo como desenvolvedora.
-
-* 🎓 **Formação:** Sistemas para Internet — IFSul 
-* 🎯 **Foco:** Desenvolvimento Backend
-* 💡 **Objetivo:** Construir soluções eficientes e crescer como engenheira de software
-
----
-
-### 🔭 Atualmente
-
-* 👩‍💻 Participando da **Residência em TIC — Unisinos/Brisa**, desenvolvendo o **NextCalendar** (API REST em Java/Spring Boot com integração React Native), em metodologia ágil, com cliente real.
 ---
 
 ### 💻 Minhas Skills Técnicas
