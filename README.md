@@ -10,7 +10,7 @@ Tenho maior interesse e foco em **desenvolvimento backend**, mas também possuo 
 
 Busco minha primeira oportunidade como **estagiária de TI**, para aplicar o que aprendo na prática, colaborar em projetos reais e continuar evoluindo como desenvolvedora.
 
-* 🎓 **Formação:** Sistemas para Internet — IFSul (conclusão prevista: 07/2028)
+* 🎓 **Formação:** Sistemas para Internet — IFSul 
 * 🎯 **Foco:** Desenvolvimento Backend
 * 💡 **Objetivo:** Construir soluções eficientes e crescer como engenheira de software
 
@@ -19,8 +19,6 @@ Busco minha primeira oportunidade como **estagiária de TI**, para aplicar o que
 ### 🔭 Atualmente
 
 * 👩‍💻 Participando da **Residência em TIC — Unisinos/Brisa**, desenvolvendo o **NextCalendar** (API REST em Java/Spring Boot com integração React Native), em metodologia ágil, com cliente real.
-* 📌 Em processo seletivo para estágio em TI, com foco em backend / engenharia de software.
-
 ---
 
 ### 💻 Minhas Skills Técnicas
@@ -72,9 +70,6 @@ Aplicativo mobile para controle e gestão de colaboradores.
 <p align="center">
 <a href="https://www.linkedin.com/in/gabrielli-borba" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:seuemail@exemplo.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
