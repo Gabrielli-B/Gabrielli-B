@@ -53,16 +53,6 @@ Aplicação para acompanhamento de dados climáticos em tempo real.
 Aplicativo mobile para controle e gestão de colaboradores.
 `Android` `Java`
 
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabrielli-B&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielli-B&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🤝 Conecte-se comigo
